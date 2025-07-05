@@ -1,0 +1,3 @@
+/home/cyk/rucbase-lib/rucbase_client/build/CMakeFiles/rucbase_client.dir
+/home/cyk/rucbase-lib/rucbase_client/build/CMakeFiles/edit_cache.dir
+/home/cyk/rucbase-lib/rucbase_client/build/CMakeFiles/rebuild_cache.dir
