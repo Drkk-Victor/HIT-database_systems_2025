@@ -36,7 +36,7 @@ D. X
 #### 8. 还有一个哪一个不属于系统故障的，选项忘记了
 
 ### 证明
-#### 1. 已知关系 $ R(\underline{a}, b) $ 和 $ S(\underline{a}, b) $ ，证明 $\pi_{R.a, R.b}(\sigma_{S.a = \text{null}}(R \ \text{\textbf{⟕}} \ S)) = R - S $
+#### 1. 已知关系 $R(\underline{a}, b) $ 和 $S(\underline{a}, b) $ ，证明 $\pi_{R.a, R.b}(\sigma_{S.a = \text{null}}(R \ \text{\textbf{⟕}} \ S)) = R - S $
 #### 2. 非常类似这道作业题
 ![](./pic/z-2.png)
 ### 简答
